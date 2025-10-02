@@ -13,3 +13,19 @@
 .subratllat {
     text-decoration: underline;
 }
+.vermell{
+    color: red;
+}
+.verd{
+    color: green;
+}
+.blau{
+    color: blue;
+} 
+a {
+  text-decoration: none;
+  border-bottom: 1px dotted #333;
+}
+a:hover {
+  border-bottom-style: solid;
+}
