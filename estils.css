@@ -1,7 +1,15 @@
 #títol{
-    font-weight: 24px;
+    font-weight: 50px;
 }
-
-.parraf{
-
+.text-important {
+  font-weight: bold;
+}
+.gran {
+    font-size: 25px;
+}
+.negreta{
+    font-weight: bold;
+}
+.subratllat {
+    text-decoration: underline;
 }
