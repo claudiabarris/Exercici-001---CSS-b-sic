@@ -26,6 +26,13 @@ a {
   text-decoration: none;
   border-bottom: 1px dotted #333;
 }
-a:hover {
-  border-bottom-style: solid;
-}
+.hover {
+        color: orange;
+        cursor: pointer;
+      }
+.decorat::before {
+          content: "👉 ";
+          ;}  
+.decorat::after {
+          content: " ✔";
+          ;}    
